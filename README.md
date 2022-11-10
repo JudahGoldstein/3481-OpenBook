@@ -1,2 +1,3 @@
 # 3481-OpenBook
-communal open notes repo for eecs3481 F2022
+
+To add to the repo please make a folder with your discord handle as the name inside you can upload whatever code or notes you are willing to share.
